@@ -1,0 +1,41 @@
+// File: android/build.gradle
+
+buildscript {
+    repositories {
+        google() // Đảm bảo kho lưu trữ Google đã được thêm
+        mavenCentral() // Đảm bảo kho lưu trữ Maven Central đã được thêm
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.0.0' // Cập nhật phiên bản AGP
+    }
+}
+
+allprojects {
+    repositories {
+        google() // Đảm bảo kho lưu trữ Google đã được thêm
+        mavenCentral() // Đảm bảo kho lưu trữ Maven Central đã được thêm
+    }
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
+
+// The below script
+subprojects {
+    if (project.hasProperty('android')) {
+        project.android {
+            if (namespace == null) {
+                namespace project.group
+            }
+        }
+    }
+}

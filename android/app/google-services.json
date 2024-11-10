@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "744521823113",
+    "firebase_url": "https://login-register-firebase-d2cd3-default-rtdb.firebaseio.com",
+    "project_id": "login-register-firebase-d2cd3",
+    "storage_bucket": "login-register-firebase-d2cd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:87637397128e97dba0e758",
+        "android_client_info": {
+          "package_name": "com.example.app_intern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:439b4a25c85b5d25a0e758",
+        "android_client_info": {
+          "package_name": "com.example.drivers_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:13ed84d39c8b52c0a0e758",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:960d2c45bbefe803a0e758",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:46b3002c32037df7a0e758",
+        "android_client_info": {
+          "package_name": "com.example.noteproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:036dfcd5d90e707fa0e758",
+        "android_client_info": {
+          "package_name": "com.example.trippo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744521823113:android:042ac8f098707c51a0e758",
+        "android_client_info": {
+          "package_name": "easy.tuto.easycalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9wEDFTqWyZd4ZwauYD3aGYqM-8l7eeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
