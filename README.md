@@ -1,16 +1,10 @@
-# app_intern
+# Đồ án chuyên nghành VAA
+## Thông tin nhóm
 
-A new Flutter project.
+- **Tên nhóm**: Nhóm 9
+- **Tên khoa**: Khoa Công nghệ thông tin 
+- **Tên học viện**: Học Viện Hàng Không Việt Nam 
+- **Hashtag**: #FITVAA
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mô tả dự án
+Đồ án chuyên nghành thu gom rác ứng dụng Flutter Firebase và quản lý Admin bằng Web viết bằng Node Js Cập Nhật Vị Trí RealTime Tài Xế cho custumer
